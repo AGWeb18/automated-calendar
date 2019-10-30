@@ -2,7 +2,7 @@
 
 ## **[Data Analytic Tools for Business Decision Making](/course.md)**
 
-### Prerequisites for this course
+*Prerequisites for this course*
 - Experience working with data
 - A drive to learn
 - Not required to know SQL, Python or R
