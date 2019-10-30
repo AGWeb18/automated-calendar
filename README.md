@@ -11,6 +11,9 @@
 - Each Table is a spreadsheet-like in nature. There are **rows** and **columns**. 
 
 
+
+<br> 
+
 ### Steps of the ETL Pipeline. 
 ##### Extraction
 
