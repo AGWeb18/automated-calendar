@@ -41,14 +41,16 @@ SELECT * FROM TABLE;
 
 ---
 
-### Steps of the ETL Pipeline. 
+**Data Storage**
+##### Module 3
+- [MySQL Installer](https://dev.mysql.com/downloads/installer/)
+- Recommend to use the 'web' installer. 
+- Download MySQL Server and MySQL Workbench. 
 
-**Extract**
 
-- Intro to SQL
-- SQL Transformations
+---
 
-**Transformation**
+**Data Transformation**
 - Where
 - Case When
 - Group By
