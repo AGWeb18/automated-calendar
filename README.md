@@ -102,7 +102,7 @@ WHERE
   ```sql
    SELECT 
     country, 
-    COUNT(ID) as "Count"
+    COUNT(id) as "# per Country"
    FROM
     country_table
    GROUP BY country;
