@@ -99,6 +99,7 @@ WHERE
   - An aggregate function can be used to group the result-set by one or more columns
   - Aggregate functions include: `COUNT()`, `SUM()`, `MEAN()`
   
+  ##### *Example*
   ```sql
    SELECT 
     country, 
