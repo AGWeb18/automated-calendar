@@ -54,7 +54,7 @@ SELECT * FROM TABLE;
 - Import via the Import Data Wizard. 
 
 ##### Perform a SELECT query
-*Example*
+##### *Example*
 ```sql
   SELECT TOP(100) * FROM table_name;
 ```
@@ -63,9 +63,23 @@ SELECT * FROM TABLE;
 ---
 
 **Data Transformation**
-- Where
-- Case When
-- Group By
+- **`WHERE`**
+  - A WHERE function filters your dataset with a single or multiple conditions. 
+  - You can use `AND`, `OR` or `BETWEEN` keywords to build a specific query.
+
+##### *Example*
+```sql
+SELECT 
+  TOP(100) * 
+FROM 
+  table_name
+WHERE
+  column > some_value; 
+```
+
+- **`CASE`**
+
+- **`GROUP BY`**
 
 **Load**
 
