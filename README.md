@@ -37,10 +37,7 @@ SELECT * FROM TABLE;
 - SQL runs differently than the order you type in. 
 - For this reason, the order of operations must be obeyed for the Query to perform as expected. 
 
-![sql_order_of_ops](https://github.com/AGWeb18/lessons/blob/master/imgs/orderofoperations.png)
-
-
-<br> 
+![sql_order_of_ops](https://github.com/AGWeb18/lessons/blob/master/imgs/orderofoperations.png "SQL Order of Operations")
 
 ---
 
