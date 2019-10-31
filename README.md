@@ -95,6 +95,16 @@ WHERE
   ```
 
 - **`GROUP BY`**
-
-**Load**
+  - A GROUP BY groups rows with the same value into summary rows. 
+  - An aggregate function can be used to group the result-set by one or more columns
+  - Aggregate functions include: `COUNT()`, `SUM()`, `MEAN()`
+  
+  ```sql
+   SELECT 
+    country, 
+    COUNT(ID) as "Count"
+   FROM
+    country_table
+   GROUP BY country;
+  ```
 
