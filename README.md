@@ -6,7 +6,7 @@
 - No programming required, but may be helpful. 
 
 ### Key Terms and Data Types
-**Relational Databases (SQL)**
+**Database**
 - Databases store and organize data. 
 - Contain multiple _tables_ which makes data easily accessible.
 - Each Table is a spreadsheet-like in nature. They contain **rows** and **columns**. 
@@ -16,6 +16,7 @@
 - They can be SELECT, UPDATE, INSERT or DELETE
 
 _Example_
+
 ```sql
 SELECT * FROM TABLE;
 ```
@@ -24,10 +25,17 @@ SELECT * FROM TABLE;
 - A program which interacts with the database, user and other applications to capture and analyze data. 
 - MySQL, SQL Server Management Studio and PostgreSQL are examples. 
 
+**SQL: Structured Query Language**
+- A programming language made to capture and analyze data in a database. 
+- SQL is considered a __declaritive language__ meaning the user simply needs to state what they want returned and not have to worry about how it is done. 
+
 **SQL Order of Operations** 
 
+- The order that SQL runs.
+- SQL runs differently than the order you type in. 
+- For this reason, the order of operations must be obeyed for the Query to perform as expected. 
 
-
+![sql_order_of_ops](https://github.com/AGWeb18/lessons/blob/master/imgs/orderofoperations.png)
 
 
 <br> 
