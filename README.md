@@ -1,9 +1,11 @@
 ## **Data Analytic Tools for Business Decision Making**
 
-*Prerequisites for this course*
+**Prerequisites for this course**
 - Experience working with data (Excel)
 - A drive to learn.
 - No programming required, but may be helpful. 
+
+---
 
 ### Key Terms and Data Types
 **Database**
@@ -40,17 +42,19 @@ SELECT * FROM TABLE;
 
 <br> 
 
+---
+
 ### Steps of the ETL Pipeline. 
 
-**__Extract__**
+**Extract**
 
 - Intro to SQL
 - SQL Transformations
 
-**__Transformation__**
+**Transformation**
 - Where
 - Case When
 - Group By
 
-**__Load__**
+**Load**
 
