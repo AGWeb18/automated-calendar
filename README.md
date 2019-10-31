@@ -74,10 +74,25 @@ SELECT
 FROM 
   table_name
 WHERE
-  column > some_value; 
+  col_name > some_value; 
 ```
 
 - **`CASE`**
+  - A CASE function 'labels' a row based on a certain condition. 
+  - This 'label' can be in its own column, or overwrite an original column. 
+  - Very useful for creating buckets for numeric data and feature engineering. 
+  
+  ##### *Example*
+  ```sql
+  SELECT 
+    CASE 
+      WHEN col_name > some_value THEN 'label1',
+      WHEN col_name < some_value THEN 'label2', 
+      ELSE 'label3'
+    END AS 'new_col'
+  FROM
+    table_name;
+  ```
 
 - **`GROUP BY`**
 
