@@ -112,17 +112,24 @@ WHERE
   ---
   
   **Data Transformation in Python**
-A very popular python library named `pandas` will be used heavily in this course as it provides simple to use functions to common tasks. 
+Two very popular python libraries named `pandas` and `numpy` will be used heavily in this course as they provide simple to use functions for common tasks. 
 
 Some common tasks include: 
-    - Reading data from
-        -  a CSV
-        -  a Database
-        -  JSON file
-        -  API
-    - Analyzing Data
-        - np.where
-        - df.loc[]
+
+- Reading data from
+  -  a CSV
+  -  a Database
+  -  JSON file
+  -  API
+- Analyzing Data
+  - Selecting Data - df.loc[] | np.where()
+  - Numerical computation
+  - Categorical computation
+- Loading data to:
+  - A CSV -- pd.to_csv()
+  - A Table -- pd.to_sql()
+  - JSON file -- pd.to_json()
+  - Many other file formats. 
 
   
 
