@@ -62,7 +62,7 @@ SELECT * FROM TABLE;
 
 ---
 
-**Data Transformation**
+**Data Transformation in SQL**
 - **`WHERE`**
   - A WHERE function filters your dataset with a single or multiple conditions. 
   - You can use `AND`, `OR` or `BETWEEN` keywords to build a specific query.
@@ -108,4 +108,21 @@ WHERE
     country_table
    GROUP BY country;
   ```
+  
+  ---
+  
+  **Data Transformation in Python**
+A very popular python library named `pandas` will be used heavily in this course as it provides simple to use functions to common tasks. 
+
+Some common tasks include: 
+    - Reading data from
+        -  a CSV
+        -  a Database
+        -  JSON file
+        -  API
+    - Analyzing Data
+        - np.where
+        - df.loc[]
+
+  
 
