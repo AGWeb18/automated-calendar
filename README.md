@@ -122,7 +122,7 @@ Some common tasks include:
   -  JSON file
   -  API
 - Analyzing Data
-  - Selecting Data - df.loc[] | np.where()
+  - Selecting Data - df.loc[] or np.where()
   - Numerical computation
   - Categorical computation
 - Loading data to:
