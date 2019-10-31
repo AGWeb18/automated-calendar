@@ -1,4 +1,4 @@
-## **[Data Analytic Tools for Business Decision Making](/course.md)**
+## **Data Analytic Tools for Business Decision Making**
 
 *Prerequisites for this course*
 - Experience working with data (Excel)
@@ -7,9 +7,21 @@
 
 ### Key Terms and Data Types
 **Relational Databases (SQL)**
-- Contains multiple Tables and other properties (Agent, Procedures, etc)
-- Each Table is a spreadsheet-like in nature. There are **rows** and **columns**. 
+- Databases store and organize data. 
+- Contain multiple _tables_ which makes data easily accessible.
+- Each Table is a spreadsheet-like in nature. They contain **rows** and **columns**. 
 
+**Query**
+- A single request or action on the database.
+- They can be SELECT, UPDATE, INSERT or DELETE
+_Example_
+```SQL
+SELECT * FROM TABLE;
+```
+
+**DBMS: database management system**
+- A program which interacts with the database, user and other applications to capture and analyze data. 
+- MySQL, SQL Server Management Studio and PostgreSQL are examples. 
 
 
 <br> 
