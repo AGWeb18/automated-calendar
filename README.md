@@ -14,6 +14,7 @@
 **Query**
 - A single request or action on the database.
 - They can be SELECT, UPDATE, INSERT or DELETE
+
 _Example_
 ```SQL
 SELECT * FROM TABLE;
@@ -27,13 +28,13 @@ SELECT * FROM TABLE;
 <br> 
 
 ### Steps of the ETL Pipeline. 
-##### Extraction
+
+__**Extract**__
 
 - Intro to SQL
 - SQL Transformations
 
-##### Transformation
+__**Transformation**__
 
-##### Load
-
+__**Load**__
 
