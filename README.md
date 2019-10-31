@@ -29,12 +29,12 @@ SELECT * FROM TABLE;
 
 ### Steps of the ETL Pipeline. 
 
-__**Extract**__
+**__Extract__**
 
 - Intro to SQL
 - SQL Transformations
 
-__**Transformation**__
+**__Transformation__**
 
-__**Load**__
+**__Load__**
 
