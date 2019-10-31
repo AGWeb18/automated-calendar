@@ -42,10 +42,22 @@ SELECT * FROM TABLE;
 ---
 
 **Data Storage**
-##### Module 3
+#### Module 3
+##### Install MySQL
 - [MySQL Installer](https://dev.mysql.com/downloads/installer/)
 - Recommend to use the 'web' installer. 
 - Download MySQL Server and MySQL Workbench. 
+
+##### Load Data
+- Find a CSV that has some data. 
+- Define Data Types. 
+- Import via the Import Data Wizard. 
+
+##### Perform a SELECT query
+*Example*
+```sql
+  SELECT TOP(100) * FROM table_name;
+```
 
 
 ---
