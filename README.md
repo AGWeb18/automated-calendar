@@ -16,13 +16,18 @@
 - They can be SELECT, UPDATE, INSERT or DELETE
 
 _Example_
-```SQL
+```sql
 SELECT * FROM TABLE;
 ```
 
 **DBMS: database management system**
 - A program which interacts with the database, user and other applications to capture and analyze data. 
 - MySQL, SQL Server Management Studio and PostgreSQL are examples. 
+
+**SQL Order of Operations** 
+
+
+
 
 
 <br> 
@@ -35,6 +40,9 @@ SELECT * FROM TABLE;
 - SQL Transformations
 
 **__Transformation__**
+- Where
+- Case When
+- Group By
 
 **__Load__**
 
