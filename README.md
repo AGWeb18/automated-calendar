@@ -114,7 +114,7 @@ WHERE
   ---
   
   
-### Module 4 - Data Transformation in Python
+### Module 5 - Data Transformation in Python
 Two very popular python libraries named `pandas` and `numpy` will be used heavily in this course as they provide simple to use functions for common tasks. 
 
 Some common tasks include: 
