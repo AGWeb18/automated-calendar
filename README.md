@@ -7,6 +7,8 @@
 
 ---
 
+<br>
+
 ### Key Terms and Data Types
 **Database**
 - Databases store and organize data. 
@@ -41,8 +43,8 @@ SELECT * FROM TABLE;
 
 ---
 
-**Data Storage**
-#### Module 3
+### Module 3 - Data Storage
+
 ##### Install MySQL
 - [MySQL Installer](https://dev.mysql.com/downloads/installer/)
 - Recommend to use the 'web' installer. 
@@ -61,8 +63,7 @@ SELECT * FROM TABLE;
 
 
 ---
-
-**Data Transformation in SQL**
+### Module 4 - Data Transformation in SQL
 - **`WHERE`**
   - A WHERE function filters your dataset with a single or multiple conditions. 
   - You can use `AND`, `OR` or `BETWEEN` keywords to build a specific query.
@@ -83,6 +84,7 @@ WHERE
   - Very useful for creating buckets for numeric data and feature engineering. 
   
   ##### *Example*
+  
   ```sql
   SELECT 
     CASE 
@@ -111,7 +113,8 @@ WHERE
   
   ---
   
-  **Data Transformation in Python**
+  
+### Module 4 - Data Transformation in Python
 Two very popular python libraries named `pandas` and `numpy` will be used heavily in this course as they provide simple to use functions for common tasks. 
 
 Some common tasks include: 
