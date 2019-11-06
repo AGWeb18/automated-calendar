@@ -1,7 +1,3 @@
----
-title: Data Analytic Tools for Business Decision Making
----
-
 ## **Data Analytic Tools for Business Decision Making**
 
 **Prerequisites for this course**
