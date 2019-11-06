@@ -1,3 +1,7 @@
+---
+title: Data Analytic Tools for Business Decision Making
+---
+
 ## **Data Analytic Tools for Business Decision Making**
 
 **Prerequisites for this course**
@@ -17,7 +21,7 @@
 - A single request or action on the database.
 - They can be SELECT, UPDATE, INSERT or DELETE
 
-_Example_
+_SELECT Example_
 
 ```sql
 SELECT * FROM TABLE;
