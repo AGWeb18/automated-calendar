@@ -135,22 +135,14 @@ Some common tasks include:
   - Many other file formats. 
   
   ```sql
-  
 SELECT DISTINCT <TOP_specification> <select_list>
-
 FROM <left_table>
-
-<join_type> JOIN <right_table> ON <join_condition>
-
+  <join_type> JOIN <right_table> ON <join_condition>
 WHERE <where_condition>
-
 GROUP BY <group_by_list>
-
 HAVING <having_condition>
-
 ORDER BY <order_by_list>
-
-  ```
+```
 
   
 
