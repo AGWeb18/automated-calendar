@@ -134,7 +134,7 @@ Some common tasks include:
   - JSON file -- pd.to_json()
   - Many other file formats. 
   
-  ```sql
+```sql
 SELECT DISTINCT <TOP_specification> <select_list>
 FROM <left_table>
   <join_type> JOIN <right_table> ON <join_condition>
